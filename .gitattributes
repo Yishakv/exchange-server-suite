@@ -1,0 +1,11 @@
+# See https://github.com/github/linguist
+Cargo.lock linguist-generated
+*.jpg binary
+src/** linguist-detectable   
+*.ts linguist-detectable
+go.sum linguist-generated
+
+*.min.css linguist-generated
+
+public/index.html linguist-vendored
+*.jpeg binary
